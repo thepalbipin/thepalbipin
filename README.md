@@ -4,7 +4,6 @@
 
 <h1 align="center">Hi 👋, I'm Bipin Kumar Pal</h1>
 <h3 align="center">A passionate full-stack web developer from India</h3>
-<img align="right" width="400" src="https://i.pinimg.com/originals/c0/4f/fd/c04ffd44e36f7c3d5b6f53e424b1ab5b.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thepalbipin&label=Profile%20views&color=0e75b6&style=flat" alt="thepalbipin" /> </p>
 
